@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662288992 source:d:\c++\graph\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<list>
+	<unordered_map>
+	<queue>
+

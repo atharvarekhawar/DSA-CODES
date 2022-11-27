@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661671905 source:d:\c++\binary_tree\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<queue>
+

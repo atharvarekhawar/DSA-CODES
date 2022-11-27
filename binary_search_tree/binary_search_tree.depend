@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661781338 source:d:\c++\binary_search_tree\main.cpp
+	<iostream>
+	<vector>
+
